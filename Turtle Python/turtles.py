@@ -6,3 +6,4 @@ fred.right(135)
 fred.forward(140)
 fred.right(135)
 fred.forward(100)
+
